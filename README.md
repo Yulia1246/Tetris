@@ -44,7 +44,7 @@ int main()
 
     // Створення та завантаження текстури
     Texture t;
-    t.loadFromFile("C:/Users/kreho/OneDrive/Рабочий стол/tiles.jpg");
+    t.loadFromFile("C:/Users/kreho/Downloads/tiles.png");
     // Створення спрайту
     Sprite tiles(t);
 
@@ -200,4 +200,3 @@ int main()
 
     return 0;
 }
-
