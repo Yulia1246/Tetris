@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\kreho\OneDrive\Рабочий стол\Game\Project1\Project1\Source.cpp(41,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\kreho\OneDrive\Рабочий стол\Game\Project1\Project1\Source.cpp(56,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\kreho\OneDrive\Рабочий стол\Game\Project1\Project1\Source.cpp(93,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kreho\OneDrive\Рабочий стол\Game\Project1\Project1\Source.cpp(175,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kreho\OneDrive\Рабочий стол\Game\Project1\Project1\Source.cpp(185,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kreho\OneDrive\Рабочий стол\Game\Project1\Project1\Source.cpp(185,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kreho\OneDrive\Рабочий стол\Game\Project1\Project1\Source.cpp(192,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kreho\OneDrive\Рабочий стол\Game\Project1\Project1\Source.cpp(192,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\kreho\OneDrive\Рабочий стол\Game\Project1\Debug\Project1.exe
